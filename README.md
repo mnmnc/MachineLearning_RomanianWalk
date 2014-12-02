@@ -4,7 +4,7 @@ MachineLearning_RomanianWalk
 Travel from romaninan cities to Bucharest based on direct distances. Greedy Algorithm.
 
 ## INPUT
-```
+```python
 dist = {
         'Bucharest':            0,
         'Giurgiu':              77,
